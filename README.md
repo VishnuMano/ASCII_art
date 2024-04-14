@@ -1,2 +1,2 @@
 # ASCII_art
-Turn images to ASCII art
+Turns images to ASCII art
